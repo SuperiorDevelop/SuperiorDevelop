@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ...Python, JavaScript, and C# scripts
 - 💞️ I’m a beginner!
 - 📫 How to reach me ...
-My Instagram ID-- @krishsid_1632 
+<br>
 My email ID-- sidhantsingh3264@gmail.com
 
 Author-- Sidhant Kumar Singh
