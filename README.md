@@ -19,7 +19,7 @@ I am passionate about building efficient, scalable, and user-friendly web applic
 | **Version Control** | Git, GitHub                  |
 
 ## 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=SuperiorDevelop&show_icons=true&theme=radical)
 
 ## 📫 Get in Touch
 - LinkedIn [Your LinkedIn Profile](https://www.linkedin.com/in/sidhant-kumar-singh-553882285/)
