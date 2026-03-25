@@ -22,7 +22,7 @@ I am passionate about building efficient, scalable, and user-friendly web applic
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=SuperiorDevelop&show_icons=true&theme=radical)
 
 ## 📫 Get in Touch
-- LinkedIn [Your LinkedIn Profile](https://www.linkedin.com/in/sidhant-kumar-singh-553882285/)
+- LinkedIn [Sidhant Kumar Singh](https://www.linkedin.com/in/sidhant-kumar-singh-553882285/)
 - Email: sidhantsingh3264@gmail.com
 
 Feel free to check out my repositories and collaborate on something amazing!
